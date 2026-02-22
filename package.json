@@ -1,0 +1,9 @@
+{
+  "name": "airmate-workspace",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "airmate-web",
+    "airmate-app"
+  ]
+}
